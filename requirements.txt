@@ -1,0 +1,15 @@
+pandas~=2.3.0
+numpy~=2.2.6
+dtaidistance~=2.3.13
+scikit-learn~=1.7.0
+tslearn~=0.6.3
+numba~=0.61.2
+yfinance~=0.2.63
+matplotlib~=3.10.3
+networkx~=3.5
+scipy~=1.15.3
+hyperopt~=0.2.7
+kneed~=0.8.5
+tqdm~=4.67.1
+torch~=2.7.1
+torchinfo~=1.8.0
